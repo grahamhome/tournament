@@ -9,3 +9,4 @@ Use `cargo test` to run tests.
 - HashMap insertions & updates
 - String formatting
 - Sorting
+- String parsing & splitting
